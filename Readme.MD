@@ -12,7 +12,7 @@ Project to implement a exampleof ExpressJS and MongoDB
 
 1. Clone or download de repository:
     ```
-    $ git clone https://github.com/julian1david/MERN
+    $ git clone git@github.com:julianf-dev/API-REST-Users.git
     ```
 
 1. Open the console inside the project directory and install the dependencies
